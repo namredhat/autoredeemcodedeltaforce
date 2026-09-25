@@ -87,7 +87,7 @@ Nếu trình duyệt hiện cảnh báo, hãy làm theo hướng dẫn của tr�
 Mở file:
 
 ```text
-auto-redeem.js
+nhapcodedeltaforce.js
 ```
 
 hoặc copy toàn bộ JavaScript của project.
